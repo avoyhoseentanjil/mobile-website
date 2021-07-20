@@ -1,4 +1,9 @@
-.headnav ul{
-text-align: right;
-}
 
+.highlite{
+    color: cyan;
+
+}
+.youtube{
+    background-color: darkorange;
+    text-decoration: none;
+}
